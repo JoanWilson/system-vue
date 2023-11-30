@@ -1,8 +1,7 @@
 <script setup>
+import LoginView from './views/LoginView.vue';
 </script>
 
 <template>
-  <header>
-    Olá mundo!
-  </header>
+  <LoginView /> 
 </template>
